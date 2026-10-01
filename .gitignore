@@ -1,0 +1,4 @@
+*.o
+secure_update_demo
+__pycache__/
+*.pyc
