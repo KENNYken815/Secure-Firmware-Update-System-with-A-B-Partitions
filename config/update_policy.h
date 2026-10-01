@@ -1,0 +1,5 @@
+#ifndef UPDATE_POLICY_H
+#define UPDATE_POLICY_H
+#define UPDATE_MAX_BOOT_ATTEMPTS 3U
+#define UPDATE_MIN_VERSION 1U
+#endif
